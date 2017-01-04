@@ -15,6 +15,9 @@ Types of Problems
 
 Linear Regression with one variable = Univariate linear regression
 
-#####Cost Function
+###Cost Function
 Idea: Choose \theta 0, \theta 1 so that h(x) is close to y for our training examples (x, y)
 
+In univariate linear regression, h(x) comes with x (power 1).
+
+> So, over all purpose is to minimize cost function by changing 'theta's.....
