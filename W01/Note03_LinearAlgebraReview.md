@@ -8,6 +8,7 @@ Vector: An n x 1 matrix.
 #### Addition and Scalar Multiplication
 
 #### Matrix Vector Multiplication
+Prediction = DataMatrix x Parameters
 
 #### Matrix Matrix Multiplication
 
