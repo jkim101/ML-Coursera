@@ -16,4 +16,4 @@ Types of Problems
 Linear Regression with one variable = Univariate linear regression
 
 Cost Function
-Idea: Choose \theta0, \theta1 so that h(x) is close to y for our training examples (x, y)
+Idea: Choose \theta 0, \theta 1 so that h(x) is close to y for our training examples (x, y)
