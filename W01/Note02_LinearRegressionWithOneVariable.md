@@ -26,3 +26,5 @@ In univariate linear regression, h(x) comes with x (power 1).
 Relationship between h(x) and J(\theta  )
 
 \theta  
+
+\alpha  
