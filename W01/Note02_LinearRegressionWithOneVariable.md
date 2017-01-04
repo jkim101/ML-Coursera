@@ -1,8 +1,10 @@
 ##Linear Regression with one variable
 
+
 ###Model and Cost Function
 - Supervised Learning: Given the "right answer" for each example in the data
 - Unsupervised Learning: Predict real-valued output
+
 
 ####Model Representation
 - A pair of input variable and target variable is called a 'training example'. A list of training examples is called a 'training set'.
@@ -24,5 +26,6 @@ In univariate linear regression, h(x) comes with x (power 1).
 
 ####Cost Function Intuition I and II
 >Think the relationship between h(x) and J(\theta)
+
 
 ###Parameter Learning
