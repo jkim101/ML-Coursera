@@ -17,4 +17,5 @@ Linear Regression with one variable = Univariate linear regression
 
 Cost Function
 Idea: Choose \theta 0, \theta 1 so that h(x) is close to y for our training examples (x, y)
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
