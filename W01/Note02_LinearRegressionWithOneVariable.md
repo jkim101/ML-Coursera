@@ -31,4 +31,10 @@ In univariate linear regression, h(x) comes with x (power 1).
 ###Parameter Learning
 
 ####Gradient Descent
+Check the 'Gradient Descent Algorithm'
 >:= 'Assignment Sign'
+>alpha - learning rate
+>'(for j = 0 and j = 1)' means 'Simultaneously Update theta0 and theta1
+
+/theta  
+
