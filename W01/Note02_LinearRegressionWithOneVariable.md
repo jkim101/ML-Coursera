@@ -1,15 +1,15 @@
-**Model and Cost Function**
+**Linear Regression with one variable**
+
+Model and Cost Function
   - Supervised Learning: Given the "right answer" for each example in the data
   - Unsupervised Learning: Predict real-valued output
 
-Linear Regression with one variable
 Model Representation
 A pair of input variable and target variable is called a 'training example'. A list of training examples is called a 'training set'.
 
 'Hypothesis' <-- Call this for historical reason, not fit on ML (Andrew said).
 
-Predict continuous things... call the learning problem a 'regression problem'.
-Predict (a smally number of) discrete values of y, it could be a 'classification problem'.
+>Predict continuous things... call the learning problem a 'regression problem'.
+>Predict (a smally number of) discrete values of y, it could be a 'classification problem'.
 
-Linear Regression with one variable
-Univariate linear regression
+> Linear Regression with one variable = Univariate linear regression
