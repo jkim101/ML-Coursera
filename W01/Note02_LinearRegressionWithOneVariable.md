@@ -40,3 +40,7 @@ Check the 'Gradient Descent Algorithm'
 - Value of 'alpha': Small vs Large (step size)
 
 >If the learning rate 'alpha' fixed, as we approach a local minimum, gradient descent will automatically take smaller steps. So, no need to decrease 'alpha' over time.
+
+####Gradient Descent For Linear Regression
+'Batch' Gradient Descent
+'Batch': Each step of gradient descent uses all the training examples.
