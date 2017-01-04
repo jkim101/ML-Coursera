@@ -29,3 +29,6 @@ In univariate linear regression, h(x) comes with x (power 1).
 
 
 ###Parameter Learning
+
+####Gradient Descent
+>:= 'Assignment Sign'
