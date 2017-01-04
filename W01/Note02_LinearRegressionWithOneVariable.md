@@ -24,3 +24,5 @@ In univariate linear regression, h(x) comes with x (power 1).
 
 ###Cost Function Intuition I
 Relationship between h(x) and J(\theta  )
+
+\theta  
