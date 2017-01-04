@@ -23,8 +23,4 @@ In univariate linear regression, h(x) comes with x (power 1).
 > So, overall goal is to minimize cost function J by changing 'theta's.....
 
 ###Cost Function Intuition I
-Relationship between h(x) and J(\theta  )
-
-\theta  
-
-\alpha  
+Relationship between h(x) and J(\theta<tab>)
