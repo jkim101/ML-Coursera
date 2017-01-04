@@ -14,3 +14,6 @@ Types of Problems
 >Predict (a smally number of) discrete values of y, it could be a 'classification problem'.
 
 Linear Regression with one variable = Univariate linear regression
+
+Cost Function
+Idea: Choose \theta0, \theta1 so that h(x) is close to y for our training examples (x, y)
