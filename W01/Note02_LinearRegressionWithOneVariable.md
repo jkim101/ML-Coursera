@@ -38,3 +38,5 @@ Check the 'Gradient Descent Algorithm'
 
 - Sign of 'alpha': Positive vs Negative
 - Value of 'alpha': Small vs Large (step size)
+
+>If the learning rate 'alpha' fixed, as we approach a local minimum, gradient descent will automatically take smaller steps. So, no need to decrease 'alpha' over time.
