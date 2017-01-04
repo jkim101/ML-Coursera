@@ -4,7 +4,7 @@
 - Supervised Learning: Given the "right answer" for each example in the data
 - Unsupervised Learning: Predict real-valued output
 
-###Model Representation
+####Model Representation
 - A pair of input variable and target variable is called a 'training example'. A list of training examples is called a 'training set'.
 
 'Hypothesis' <-- Call this for historical reason, not fit on ML (Andrew said).
@@ -15,12 +15,14 @@ Types of Problems
 
 Linear Regression with one variable = Univariate linear regression
 
-###Cost Function, J
+####Cost Function, J
 Idea: Choose \theta 0, \theta 1 so that h(x) is close to y for our training examples (x, y)
 
 In univariate linear regression, h(x) comes with x (power 1).
 
-> So, overall goal is to minimize cost function J by changing 'theta's.....
+>So, overall goal is to minimize cost function J by changing 'theta's.....
 
-###Cost Function Intuition I
-Relationship between h(x) and J(\theta<tab>)
+####Cost Function Intuition I and II
+>Think the relationship between h(x) and J(\theta)
+
+###Parameter Learning
