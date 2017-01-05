@@ -12,5 +12,10 @@
 #### Matrix Matrix Multiplication
 
 #### Matrix Multiplication Properties
+- Not communtative
+- Associative
+- Identity Matrix
 
 #### Inverse and Transpose
+- Matrix Inverse: use software
+- Matrix Transpose: need to be a square matrix (Bij = Aji)
