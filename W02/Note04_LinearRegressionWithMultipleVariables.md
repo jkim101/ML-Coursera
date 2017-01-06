@@ -49,5 +49,5 @@ Octave: pinv(X'*X)*X'*y
 
 ####Normal Equation Noninvertibility
 Octave: pinv(X'*X)*X'*y 
-
-*-Too many features: Delete some features, or use regularization
+>Reduntant featurs, where two features are very closely related
+>Too many features: Delete some features, or use regularization
