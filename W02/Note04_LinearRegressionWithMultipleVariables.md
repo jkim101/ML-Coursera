@@ -39,4 +39,7 @@
     
     eg. if x1 has range 1 - 1000 then range of x21 becomes 1 - 1000000 and that of x31 becomes 1 - 1000000000
 
+
+###Computing Parameters Analytically
 ####Normal Equation
+>Normal Equation: Method to solve for θ analytically.
