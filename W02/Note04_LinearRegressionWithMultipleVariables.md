@@ -40,3 +40,11 @@
 ###Computing Parameters Analytically
 ####Normal Equation
 >Normal Equation: Method to solve for θ analytically.
+
+Octave: pinv(X'*X)*X'*y
+
+>*Check pros and cons of Gradient Descent vs Normal Equation
+>- Gradient Descent: Need to choose 'alpha'; Needs many iterations; Works well even when n is large.
+>- Normal Equation:No need to choose 'alpha'; Don't need to iterate; Need to compute (X'X)-1; Slow if n is very large.
+
+####Normal Equation Noninvertibility
