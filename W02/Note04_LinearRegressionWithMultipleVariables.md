@@ -12,12 +12,12 @@
 
 ####Learning Rate
 - Making sure gradient descent is working correctly
->J(theta) should decrease after every iteration
-- Example automatic convergence test: Declare convergence if J(theta) decreases by less than 10^-3 in one iteration. 
-- But check the graph of the relationship between number of iterations and min J(theta).
+>J(θ) should decrease after every iteration
+- Example automatic convergence test: Declare convergence if J(θ) decreases by less than 10^-3 in one iteration. 
+- But check the graph of the relationship between number of iterations and min J(θ).
 
 > If alpha is too small: slow convergence
-> If alpha is too large: J(theta) may not decrease on every iteration; may not converge.
+> If alpha is too large: J(θ) may not decrease on every iteration; may not converge.
 
 ####Features and Polynominal Regression
 - Select the correct feature.. to fit on the data -- square? cubic? squareroot? etc...
