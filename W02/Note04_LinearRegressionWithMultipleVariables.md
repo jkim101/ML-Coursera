@@ -48,3 +48,6 @@ Octave: pinv(X'*X)*X'*y
 >- Normal Equation:No need to choose 'alpha'; Don't need to iterate; Need to compute (X'X)-1; Slow if n is very large.
 
 ####Normal Equation Noninvertibility
+Octave: pinv(X'*X)*X'*y *
+
+-Too many features: Delete some features, or use regularization
