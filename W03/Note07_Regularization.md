@@ -7,6 +7,7 @@
 __Addressing overfitting__
 
 [Options]
+
 1. Reduce number of features
   - Manually select which features to keep
   - Model selection algorithm
