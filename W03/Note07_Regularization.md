@@ -20,6 +20,7 @@ __Addressing overfitting__
 >Intuition: Suppose we penalize and make theta(3) and theta(4) really small.
 
 __Regularization__
+
 Small values for parameters theta(0) ~ theta(n)
 - "Simpler" hypothesis
 - Less prone to overfitting
