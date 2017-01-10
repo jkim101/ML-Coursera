@@ -1,7 +1,7 @@
-##Regularization
-###Solving the Problem of Overfitting
+#Regularization
+##Solving the Problem of Overfitting
 
-####The Problem of Overfitting
+###The Problem of Overfitting
 >Overfitting: If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict prices on new examples).
 
 
@@ -16,7 +16,8 @@ __Addressing overfitting__
   - Keep all the features, but reduce magnitude/values of parameters theta(j)
   - Works well when we have a lot of features, each of which contributes a bit to predicting y.
 
-####Cost Function
+
+###Cost Function
 >Intuition: Suppose we penalize and make theta(3) and theta(4) really small.
 
 __Regularization__
