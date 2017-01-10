@@ -52,5 +52,3 @@ initialTheta = zeros(2, 1);
 ```
 
 ##Multiclass Classification
-
-h\theta(1)
