@@ -34,4 +34,5 @@ __Regularization Term and its parameter__
 
 > 2. Keep the parameters samll
 
-__Lambda__ plays a role of controlling the trade between these two goals.
+
+> __Lambda__ plays a role of controlling the trade between these two goals.
