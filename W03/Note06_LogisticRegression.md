@@ -15,6 +15,7 @@
 
 ###Advanced Optimizationn
 
+>[Class example]
 ```
 theta = zeros(2,1);  %declare initial theta
 
@@ -31,6 +32,7 @@ initialTheta = zeros(2, 1);
 [optTheta, functionVal, exitFlag] ... = fminunc(@costFunction, initialTheta, options);
 ```
 
+>[General Format]
 ```
 theta = zeros(n,1);  %declare initial theta
 
