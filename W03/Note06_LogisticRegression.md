@@ -7,3 +7,10 @@
 
 
 ##Logistic Regression Model
+###Cost Function
+
+
+###Simplified Cost Function and Gradient Descent
+
+
+###Advanced Optimizationn
