@@ -29,7 +29,9 @@ Small values for parameters theta(0) ~ theta(n)
 __Regularization Term and its parameter__
 
 >Two goals of regularization term are..
+
 > 1. Fit the training data well
+
 > 2. Keep the parameters samll
 
 __Lambda__ plays a role of controlling the trade between these two goals.
