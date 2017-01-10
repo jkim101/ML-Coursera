@@ -38,3 +38,5 @@ __Regularization Term and its parameter__
 > __Lambda__ plays a role of controlling the trade between these two goals.
 
 ###Regularized Linear Regression
+
+###Regularized Logistic Regression
