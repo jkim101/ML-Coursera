@@ -4,6 +4,7 @@
 ####The Problem of Overfitting
 >Overfitting: If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict prices on new examples).
 
+
 __Addressing overfitting__
 
 [Options]
@@ -16,3 +17,9 @@ __Addressing overfitting__
   - Works well when we have a lot of features, each of which contributes a bit to predicting y.
 
 ####Cost Function
+>Intuition: Suppose we penalize and make theta(3) and theta(4) really small.
+
+__Regularization__
+Small values for parameters theta(0) ~ theta(n)
+- "Simpler" hypothesis
+- Less prone to overfitting
