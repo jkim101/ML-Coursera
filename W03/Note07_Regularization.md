@@ -5,7 +5,8 @@
 >Overfitting: If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples (predict prices on new examples).
 
 __Addressing overfitting__
-Options:
+
+[Options]
 1. Reduce number of features
   - Manually select which features to keep
   - Model selection algorithm
