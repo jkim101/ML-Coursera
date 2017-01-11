@@ -1,7 +1,7 @@
-##Neural Networks: Representation
+#Neural Networks: Representation
 
-###Motivations
+##Motivations
 
-####Non-linear Hypotheses
+###Non-linear Hypotheses
 
-####Neurons and the Brain
+###Neurons and the Brain
