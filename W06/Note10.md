@@ -1,1 +1,2 @@
 
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YIVzCNnnEeaMiA5XIKzWug_63f8509998a2b5a475c85c062c450797_bias-variance.png?expiry=1484956800000&hmac=8iaY_wY4sPxm63jZLO585U2RAK3oHrdASTTy89YyRIQ
